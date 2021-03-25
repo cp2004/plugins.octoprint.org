@@ -27,3 +27,11 @@ stats:
   repo: octoprint-stats
 continuousprint:
   user: Zinc-OS
+m73etaoverride:
+  user: gdombiak
+webcamtab:
+  user: gruvin
+mmu2filamentselect:
+  user: tkoecker
+slack:
+  user: mkevenaar

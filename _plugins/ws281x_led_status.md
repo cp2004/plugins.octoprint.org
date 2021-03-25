@@ -11,7 +11,7 @@ date: 2020-07-28
 
 homepage: https://github.com/cp2004/OctoPrint-WS281x_LED_Status
 source: https://github.com/cp2004/OctoPrint-WS281x_LED_Status
-archive: https://github.com/cp2004/OctoPrint-WS281x_LED_Status/archive/master.zip
+archive: https://github.com/cp2004/OctoPrint-WS281x_LED_Status/releases/latest/download/release.zip
 
 follow_dependency_links: false
 
@@ -66,26 +66,33 @@ Features include:
 * Power calculator
 * ... and more!
 
-For the most up-to-date feature list, please checkout the [plugin's homepage]({{ page.homepage }}) as well as the [wiki]({{ page.homepage }}/wiki) for more information.
+For the most up-to-date feature list, please checkout the [plugin's homepage]({{ page.homepage }}) as well as the [documentation](https://cp2004.gitbook.io/ws281x-led-status/) for more information.
 
 ![rainbow effect](/assets/img/plugins/ws281x_led_status/color_wipe.gif)
 
 ## Setup
+
 Setting up the plugin couldn't be easier! There are 3 main steps, with the heavy lifting done for you via a configuration wizard:
+
 * Wiring your LEDs
 * Configuring SPI
 * Configuring plugin settings
 
-For a full setup guide, with detailed instructions for each step, please see the [page on the wiki]({{ page.homepage }}/wiki/Setup-Guide)
+Like the sound of it? Follow the detailed [setup guide](https://cp2004.gitbook.io/ws281x-led-status/guides/setup-guide-1) in the documentation.
 
 ### Getting help
-You may want to [check the wiki]({{ page.homepage }}/wiki), to see if your question has been answered there. Still got questions? Get in touch:
-* Open an issue with the [question template](https://github.com/cp2004/OctoPrint-WS281x_LED_Status/issues/new?assignees=&labels=type%3A+question&template=question.md&title=)
-* Find me on the [OctoPrint Discord](https://discord.octoprint.org) @cp2004
-* Find me on the [Community Forums](https://community.octoprint.org) @Charlie_Powell
+
+Please read the [Get Help Guide](https://cp2004.gitbook.io/ws281x-led-status/guides/get-help-guide) as well as the [rest of the documentation](https://cp2004.gitbook.io/ws281x-led-status/), to see if your question has been answered there. Still got questions? Get in touch:
+
+* On the [OctoPrint Discord](https://discord.octoprint.org)
+* On the [Community Forums](https://community.octoprint.org)
+* Open an issue with the [question template]({{ page.homepage }}/issues/new?assignees=&labels=question&template=question.md&title=)
+
 
 ### Reporting problems
-Whilst I don't like bugs, I want to hear about them! Let me know by [opening an issue on Github](https://github.com/cp2004/OctoPrint-WS281x_LED_Status/issues/new?assignees=&labels=type%3A+potential+bug&template=bug_report.md&title=%5BBug%5D)
+Whilst I don't like bugs, I want to hear about them! Let me know by [opening an issue on Github]({{ page.homepage }}/issues/new?assignees=&template=bug_report.md&title=%5BBug%5D)
+
+Before you report a bug, please read the [Get Help Guide](https://cp2004.gitbook.io/ws281x-led-status/guides/get-help-guide) as well, there is a section on reporting bugs.
 
 
 # Support my work!
